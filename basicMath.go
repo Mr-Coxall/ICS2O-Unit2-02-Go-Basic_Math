@@ -6,11 +6,12 @@
 package main
 
 import (
- "fmt"
- "math"
+	"fmt"
+	"math"
 )
 
 func main() {
+	// This function does basic math
 	fmt.Println(9 + 2)
 	fmt.Println("7 - 3 = ", (7 - 3))
 	fmt.Println("4 / 2 = ", (4 / 2))
